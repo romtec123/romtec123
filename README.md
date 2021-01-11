@@ -1,16 +1,14 @@
-### Hi there 👋
+#Why hello there ✌
 
-<!--
-**romtec123/romtec123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Welcome to my github page!
 
-Here are some ideas to get you started:
+####Check me out:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Discord: romtec#6969
+Steam: https://steamcommunity.com/id/romtec123/
+Minecraft: romtec_
+
+# Stats
+![](https://komarev.com/ghpvc/?username=romtec123&color=red)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=romtec123)]
