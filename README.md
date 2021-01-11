@@ -9,4 +9,4 @@ Minecraft: romtec_
 # Stats
 ![](https://komarev.com/ghpvc/?username=romtec123&color=red)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=romtec123)]
+![Romtec123's github stats](https://github-readme-stats.vercel.app/api?username=romtec123)
