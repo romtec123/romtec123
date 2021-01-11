@@ -1,8 +1,6 @@
-#Why hello there ✌
+# Why hello there ✌
 
-###Welcome to my github page!
-
-####Check me out:
+### Welcome to my github page! Check me out:
 
 Discord: romtec#6969
 Steam: https://steamcommunity.com/id/romtec123/
