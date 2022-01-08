@@ -4,7 +4,7 @@ Welcome to my github page!
 
 # About me
 
-I am a 19 year old computer science major with interest in Discord and Minecraft bots. 
+I am a 20 year old computer science major with interest in Discord and Minecraft bots. 
 
 I have decent knowledge in Java, Javascript, Kotlin, C++, Python and am a little rusty in Lua and PHP.
 
