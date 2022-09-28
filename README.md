@@ -1,16 +1,11 @@
-# Why hello there ✌
+# Hello there 👋
 
 Welcome to my github page!
 
 # About me
 
-I am a 20 year old computer science major with interest in Discord and Minecraft bots. 
+I am a 20 year old computer science major with an interest in software development and system administration
 
-I have decent knowledge in Java, Javascript, Kotlin, C++, Python and am a little rusty in Lua and PHP.
+I have knowledge in Java, Javascript, Kotlin, C++ and I am a little rusty in Lua, python and PHP.
 
-In the future I would like to look more into AI, docker containers and Cyber Security.
-
-# Stats
-![](https://komarev.com/ghpvc/?username=romtec123&color=red)
-
-![Romtec123's github stats](https://github-readme-stats.vercel.app/api?username=romtec123)
+I run a homelab hosting many of my projects using hardware from the hosting company I ran in high school.
