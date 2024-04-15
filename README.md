@@ -4,7 +4,9 @@ Welcome to my github page!
 
 # About me
 
-I am a 21 year old computer science major with an interest in software development and system administration
+I am a 22 year old computer science major with an interest in software development and system administration
+
+I'm also experienced with IT and networking and provide Onsite IT services within the Bay Area
 
 Programming languages I have some experience in:
 
